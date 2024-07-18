@@ -1,0 +1,1571 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "ItsmyKit - Template Kit For Personal Portfolio",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.png",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/demo.moxcreative.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.png",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/itsmykit\/template-kit\/itsmykit\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage 2",
+            "screenshot": "screenshots\/homepage-2.png",
+            "source": "templates\/homepage-2.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/itsmykit\/template-kit\/homepage-2\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Me",
+            "screenshot": "screenshots\/about-me.png",
+            "source": "templates\/about-me.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/itsmykit\/template-kit\/about-me\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Portfolio",
+            "screenshot": "screenshots\/single-portfolio.png",
+            "source": "templates\/single-portfolio.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/itsmykit\/template-kit\/single-portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.png",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/itsmykit\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.png",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/itsmykit\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.png",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/itsmykit\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.png",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/itsmykit\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.png",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/itsmykit\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "ItsmyKit V1 - Single Post",
+            "screenshot": "screenshots\/itsmykit-v1-single-post.png",
+            "source": "templates\/itsmykit-v1-single-post.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/itsmykit\/?elementor_library=itsmykit-v1-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "ItsmyKit V1 - Error 404",
+            "screenshot": "screenshots\/itsmykit-v1-error-404.png",
+            "source": "templates\/itsmykit-v1-error-404.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/itsmykit\/?elementor_library=itsmykit-v1-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Product V1- Menu Slide",
+            "screenshot": "screenshots\/product-v1-menu-slide.png",
+            "source": "templates\/product-v1-menu-slide.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/itsmykit\/?elementor_library=product-v1-menu-slide",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "ItsmyKit V1 - Archive",
+            "screenshot": "screenshots\/itsmykit-v1-archive.png",
+            "source": "templates\/itsmykit-v1-archive.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/itsmykit\/?elementor_library=itsmykit-v1-archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "ItsmyKit V1 - Footer",
+            "screenshot": "screenshots\/itsmykit-v1-footer.png",
+            "source": "templates\/itsmykit-v1-footer.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/itsmykit\/?elementor_library=itsmykit-v1-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "ItsmyKit V1 - Header",
+            "screenshot": "screenshots\/itsmykit-v1-header.jpg",
+            "source": "templates\/itsmykit-v1-header.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/itsmykit\/?elementor_library=itsmykit-v1-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.2.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.2.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Premium Addons for Elementor",
+            "version": "4.3.3",
+            "file": "premium-addons-for-elementor\/premium-addons-for-elementor.php",
+            "author": "Leap13"
+        },
+        {
+            "name": "OoohBoi Steroids for Elementor",
+            "version": "1.7.5",
+            "file": "ooohboi-steroids-for-elementor\/ooohboi-steroids.php",
+            "author": "OoohBoi"
+        },
+        {
+            "name": "Essential Addons for Elementor",
+            "version": "4.6.6",
+            "file": "essential-addons-for-elementor-lite\/essential_adons_elementor.php",
+            "author": "WPDeveloper"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.0.6",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "close-up-portrait-of-a-young-man-in-a-white-shirt-and-black-tie-1-3-e1620718001229.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/close-up-portrait-of-a-young-man-in-a-white-shirt-and-black-tie-1-3-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 99776,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-2AMDW8Q"
+        },
+        {
+            "filename": "bg__1.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/bg__1-800x539.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/itsmykit-v1-single-post.json",
+                    "name": "ItsmyKit V1 - Single Post"
+                },
+                {
+                    "source": "templates\/itsmykit-v1-archive.json",
+                    "name": "ItsmyKit V1 - Archive"
+                }
+            ],
+            "filesize": 208004,
+            "dimensions": [
+                1559,
+                1050
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hexa-geometric-vector-patterns-S36YP42"
+        },
+        {
+            "filename": "close-up-portrait-of-a-young-man-in-a-white-shirt-and-black-tie-1-2-e1620718025349.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/close-up-portrait-of-a-young-man-in-a-white-shirt-and-black-tie-1-2-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 47633,
+            "dimensions": [
+                481,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-47EVUC4"
+        },
+        {
+            "filename": "close-up-portrait-of-a-young-man-in-a-white-shirt-and-black-tie-1-1-e1620718048508.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/close-up-portrait-of-a-young-man-in-a-white-shirt-and-black-tie-1-1-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 38022,
+            "dimensions": [
+                481,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7U8XWEE"
+        },
+        {
+            "filename": "close-up-portrait-of-a-young-man-in-a-white-shirt-and-black-tie--e1620718073844.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/close-up-portrait-of-a-young-man-in-a-white-shirt-and-black-tie--800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 38018,
+            "dimensions": [
+                481,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-JJAPSS6"
+        },
+        {
+            "filename": "designer-hand-with-graphic-tablet-and-keyboard-e1620718102264.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/designer-hand-with-graphic-tablet-and-keyboard-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 103688,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/designer-hand-with-graphic-tablet-and-keyboard-4JTKH7D"
+        },
+        {
+            "filename": "crossing-line-patterned-background-e1620718123914.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/crossing-line-patterned-background-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 92709,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-E82DHCX"
+        },
+        {
+            "filename": "negative-effect-floral-patterned-background-e1620718145187.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/negative-effect-floral-patterned-background-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 70515,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-2X7C7JJ"
+        },
+        {
+            "filename": "model-putting-on-sneaker-studio-shoot.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/model-putting-on-sneaker-studio-shoot-800x1120.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 242803,
+            "dimensions": [
+                1429,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/model-putting-on-sneaker-studio-shoot-BB887L6"
+        },
+        {
+            "filename": "designer-workspace-minimalistic-home-office-blank-screen-desktop-computer-mockup-desktop-computer.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/designer-workspace-minimalistic-home-office-blank-screen-desktop-computer-mockup-desktop-computer-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 149367,
+            "dimensions": [
+                1335,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/designer-workspace-minimalistic-home-office-blank--WUYREZ8"
+        },
+        {
+            "filename": "3d-illustration-beautiful-format-poster-with-grey-abstract-stone-concrete-background-with-grayish-e1620718171104.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/3d-illustration-beautiful-format-poster-with-grey-abstract-stone-concrete-background-with-grayish-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 49109,
+            "dimensions": [
+                480,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/3d-illustration-beautiful-format-poster-with-grey--P4QUHZA"
+        },
+        {
+            "filename": "creative-and-cozy-workplace-at-home-office-inspirational-mock-up-with-plant-shadows-on-table-e1620718193285.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/creative-and-cozy-workplace-at-home-office-inspirational-mock-up-with-plant-shadows-on-table-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 41119,
+            "dimensions": [
+                480,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/creative-and-cozy-workplace-at-home-office-inspira-A7YYFDD"
+        },
+        {
+            "filename": "all-night-online-e1620718215570.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/all-night-online-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 45895,
+            "dimensions": [
+                481,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/all-night-online-ZNRX6TM"
+        },
+        {
+            "filename": "mockup-wine-bottle-on-a-beach-e1620718236967.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/mockup-wine-bottle-on-a-beach-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 106000,
+            "dimensions": [
+                481,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/mockup-wine-bottle-on-a-beach-46B2WZC"
+        },
+        {
+            "filename": "global_map.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/global_map-800x449.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 25973,
+            "dimensions": [
+                1950,
+                1095
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/square-dotted-world-map-and-earth-globes-Q676QDA"
+        },
+        {
+            "filename": "young-girl-posing-in-the-studio-on-a-grey-background-happy-caucasian-girl-smiling-at-camera--e1620718268798.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/young-girl-posing-in-the-studio-on-a-grey-background-happy-caucasian-girl-smiling-at-camera--800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 28556,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-girl-posing-in-the-studio-on-a-grey-backgrou-VQLBQM7"
+        },
+        {
+            "filename": "Logo_masterykit.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/Logo_masterykit.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 22454,
+            "dimensions": [
+                735,
+                216
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logo-avontur.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/logo-avontur.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 18985,
+            "dimensions": [
+                656,
+                216
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-Carbon.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/Logo-Carbon.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 12862,
+            "dimensions": [
+                461,
+                136
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-eunoia.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/Logo-eunoia.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 16894,
+            "dimensions": [
+                395,
+                144
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-goovi.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/Logo-goovi.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 8093,
+            "dimensions": [
+                650,
+                176
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Logo-Monstra.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/Logo-Monstra.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 6525,
+            "dimensions": [
+                500,
+                117
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "memphis_2.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/memphis_2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                }
+            ],
+            "filesize": 249667,
+            "dimensions": [
+                715,
+                676
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "profile.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/profile.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 185795,
+            "dimensions": [
+                368,
+                535
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7U8XWEE"
+        },
+        {
+            "filename": "full-length-portrait-of-a-happy-young-businessman.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/full-length-portrait-of-a-happy-young-businessman-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                }
+            ],
+            "filesize": 116121,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/full-length-portrait-of-a-happy-young-businessman-BPM5V4T"
+        },
+        {
+            "filename": "logo-22.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/logo-22.png",
+            "templates": [
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 3869,
+            "dimensions": [
+                177,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-23.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/logo-23.png",
+            "templates": [
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 3275,
+            "dimensions": [
+                177,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-20.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/logo-20.png",
+            "templates": [
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 3196,
+            "dimensions": [
+                177,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-19.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/logo-19.png",
+            "templates": [
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 2752,
+            "dimensions": [
+                177,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-18.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/logo-18.png",
+            "templates": [
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 4380,
+            "dimensions": [
+                177,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "logo-8.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/logo-8.png",
+            "templates": [
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                }
+            ],
+            "filesize": 2088,
+            "dimensions": [
+                178,
+                100
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com\/"
+        },
+        {
+            "filename": "monstera-palm-green-leaves-on-black-background-e1620718307952.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/monstera-palm-green-leaves-on-black-background-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-me.json",
+                    "name": "About Me"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 135707,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-TLZXQLG"
+        },
+        {
+            "filename": "man-putting-on-high-top-sneakers-studio-shoot.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/man-putting-on-high-top-sneakers-studio-shoot-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 184893,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MBN4PZD"
+        },
+        {
+            "filename": "smiling-happy-handsome-man-e1620718332715.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/smiling-happy-handsome-man-e1620675607911-800x1080.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 45717,
+            "dimensions": [
+                533,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8HK4J9D"
+        },
+        {
+            "filename": "airport-ceiling-pattern-e1620718367795.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/airport-ceiling-pattern-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 100422,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-4T78WS7"
+        },
+        {
+            "filename": "man-putting-on-high-top-sneakers-studio-shoot-1.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/man-putting-on-high-top-sneakers-studio-shoot-1-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 184893,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-MBN4PZD"
+        },
+        {
+            "filename": "model-in-white-sneakers-standing-on-chair-e1620718391320.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/model-in-white-sneakers-standing-on-chair-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 70204,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-U2TKWEA"
+        },
+        {
+            "filename": "man-in-white-high-top-shoes-standing-on-chair-e1620718413312.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/man-in-white-high-top-shoes-standing-on-chair-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 75187,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-U3TS2K9"
+        },
+        {
+            "filename": "woman-39-s-white-canvas-sneaker-mockup-on-white-e1620718436173.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/woman-39-s-white-canvas-sneaker-mockup-on-white-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 74946,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-2L25R4R"
+        },
+        {
+            "filename": "woman-in-white-sneakers-standing-on-chair-e1620718468342.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/woman-in-white-sneakers-standing-on-chair-800x1036.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 27120,
+            "dimensions": [
+                556,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-L7HX72L"
+        },
+        {
+            "filename": "man-hands-fixing-shoelaces-white-high-top-shoes.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/man-hands-fixing-shoelaces-white-high-top-shoes-800x1199.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 230638,
+            "dimensions": [
+                1334,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RXGKEP2"
+        },
+        {
+            "filename": "high-top-white-sneakers-on-jeans-model-e1620718490372.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/high-top-white-sneakers-on-jeans-model-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 107276,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-T6DFUT3"
+        },
+        {
+            "filename": "model-legs-in-white-sneakers-outdoor-shoot-e1620718510541.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/model-legs-in-white-sneakers-outdoor-shoot-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 103331,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WWQELW9"
+        },
+        {
+            "filename": "man-putting-on-sneaker-studio-shoot.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/man-putting-on-sneaker-studio-shoot-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 218940,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-M5JUN4E"
+        },
+        {
+            "filename": "fashion-blog-or-magazine-concept-pink-female-sneakers-over-pastel-pink-background-flat-lay-top-e1620718533879.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/fashion-blog-or-magazine-concept-pink-female-sneakers-over-pastel-pink-background-flat-lay-top-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 69199,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-NZBXA7L"
+        },
+        {
+            "filename": "female-graphic-designers-using-graphic-tablet-e1620718558720.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/female-graphic-designers-using-graphic-tablet-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 96687,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-G3J9A4E"
+        },
+        {
+            "filename": "love-regards-e1620718583608.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/love-regards-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 96514,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PYAB6P3"
+        },
+        {
+            "filename": "image-of-happy-caucasian-woman-smiling-and-looking-at-camera-e1620718611432.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/image-of-happy-caucasian-woman-smiling-and-looking-at-camera-e1620675634358-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 60882,
+            "dimensions": [
+                540,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-78L52Q7"
+        },
+        {
+            "filename": "confident-asian-businesswoman-e1620675670218.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/confident-asian-businesswoman-e1620675670218-800x1065.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 152056,
+            "dimensions": [
+                995,
+                1325
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-WX7W72X"
+        },
+        {
+            "filename": "young-smiling-man-with-beard-and-glasses-on-gray-studio-background-e1620675867401.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/young-smiling-man-with-beard-and-glasses-on-gray-studio-background-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 87542,
+            "dimensions": [
+                620,
+                830
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-65Q9ZUL"
+        },
+        {
+            "filename": "portrait-of-an-attractive-confident-casual-young-man-e1620675821931.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/portrait-of-an-attractive-confident-casual-young-man-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 116506,
+            "dimensions": [
+                795,
+                1060
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HLEJRCD"
+        },
+        {
+            "filename": "young-woman-crossing-arms-e1620675747376.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/young-woman-crossing-arms-e1620675747376-800x1065.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 117852,
+            "dimensions": [
+                830,
+                1105
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6LSW4CR"
+        },
+        {
+            "filename": "office-building-pattern-textures.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/office-building-pattern-textures-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                }
+            ],
+            "filesize": 204163,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DFH8T37"
+        },
+        {
+            "filename": "cheerful-man-portrait.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/cheerful-man-portrait-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/itsmykit-v1-single-post.json",
+                    "name": "ItsmyKit V1 - Single Post"
+                }
+            ],
+            "filesize": 306338,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LXPGBH3"
+        },
+        {
+            "filename": "violin-detail.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/violin-detail-800x1200.jpg",
+            "templates": [
+                {
+                    "source": "templates\/itsmykit-v1-error-404.json",
+                    "name": "ItsmyKit V1 - Error 404"
+                }
+            ],
+            "filesize": 149257,
+            "dimensions": [
+                1333,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-JD5H3AV"
+        },
+        {
+            "filename": "logo-prokit.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/itsmykit\/wp-content\/uploads\/sites\/32\/2021\/05\/logo-prokit.png",
+            "templates": [
+                {
+                    "source": "templates\/product-v1-menu-slide.json",
+                    "name": "Product V1- Menu Slide"
+                },
+                {
+                    "source": "templates\/itsmykit-v1-footer.json",
+                    "name": "ItsmyKit V1 - Footer"
+                },
+                {
+                    "source": "templates\/itsmykit-v1-header.json",
+                    "name": "ItsmyKit V1 - Header"
+                }
+            ],
+            "filesize": 99792,
+            "dimensions": [
+                500,
+                553
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/abstract-hexagon-geometric-structure-logo-U7R842"
+        }
+    ]
+}

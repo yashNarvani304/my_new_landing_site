@@ -1,0 +1,213 @@
+{
+    "version": "0.4",
+    "title": "Product V1- Menu Slide",
+    "type": "popup",
+    "metadata": {
+        "template_type": "section-popup",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "elementor_library_type": "popup",
+        "additional_template_information": [
+            "This is a \"Popup\" template for Elementor Pro."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [
+        {
+            "id": "54b6167c",
+            "settings": {
+                "_ob_glider_nav_pos_y_alt": "50% - 25px",
+                "_ob_glider_nav_pos_x_prev_alt": "0%",
+                "_ob_glider_nav_pos_x_next_alt": "0%",
+                "margin": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": 0,
+                    "bottom": "8",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "em",
+                    "top": "5",
+                    "right": 0,
+                    "bottom": "5",
+                    "left": 0,
+                    "isLinked": true
+                },
+                "padding": {
+                    "unit": "em",
+                    "top": "0",
+                    "right": "3",
+                    "bottom": "3",
+                    "left": "3",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "em",
+                    "top": "1",
+                    "right": "1",
+                    "bottom": "1",
+                    "left": "1",
+                    "isLinked": true
+                }
+            },
+            "elements": [
+                {
+                    "id": "7d5c3dd0",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "707630d9",
+                            "settings": {
+                                "image": {
+                                    "url": "https:\/\/demo.moxcreative.com\/prokit\/wp-content\/uploads\/sites\/32\/2021\/05\/logo-prokit.png",
+                                    "id": 705
+                                },
+                                "image_size": "custom",
+                                "image_custom_dimension": {
+                                    "width": "",
+                                    "height": "50"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "image",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "25b74164",
+                            "settings": {
+                                "editor": "<p>Hello, I'm ItsmyKit. Professional Graphics Designer<\/p>",
+                                "align": "center",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2e3ae6f8",
+                            "settings": {
+                                "layout": "dropdown",
+                                "pointer": "none",
+                                "dropdown": "none",
+                                "background_color_dropdown_item": "#02010100",
+                                "background_color_dropdown_item_hover": "#02010100",
+                                "dropdown_typography_typography": "custom",
+                                "dropdown_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "dropdown_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "padding_horizontal_dropdown_item": {
+                                    "unit": "px",
+                                    "size": 0,
+                                    "sizes": []
+                                },
+                                "padding_vertical_dropdown_item": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "dropdown_divider_border": "dashed",
+                                "dropdown_divider_width": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "color_dropdown_item": "globals\/colors?id=0a4a17b",
+                                    "color_dropdown_item_hover": "globals\/colors?id=a73d974",
+                                    "dropdown_divider_color": "globals\/colors?id=0459886"
+                                },
+                                "dropdown_typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "nav-menu",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2adfc1e3",
+                            "settings": {
+                                "editor": "<p>Copyright \u00a9 2021 ItsmyKit, All rights reserved. Present by MoxCreative.<\/p>",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "width": {
+            "unit": "px",
+            "size": 360,
+            "sizes": []
+        },
+        "height_type": "fit_to_screen",
+        "horizontal_position": "right",
+        "entrance_animation": "fadeInRight",
+        "exit_animation": "fadeInRight",
+        "eael_ext_toc_title": "Table of Contents",
+        "background_background": "classic",
+        "icon_size": {
+            "unit": "px",
+            "size": 28,
+            "sizes": []
+        },
+        "icon_size_tablet": {
+            "unit": "px",
+            "size": 28,
+            "sizes": []
+        },
+        "icon_size_mobile": {
+            "unit": "px",
+            "size": 21,
+            "sizes": []
+        },
+        "__globals__": {
+            "background_color": "globals\/colors?id=9064b62",
+            "close_button_color": "globals\/colors?id=a73d974",
+            "close_button_background_color": "globals\/colors?id=0459886",
+            "close_button_hover_background_color": "globals\/colors?id=cd62ef1"
+        },
+        "entrance_animation_duration": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+        }
+    }
+}
